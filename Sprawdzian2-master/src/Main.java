@@ -9,5 +9,6 @@ public class Main {
         int level = scanner.nextInt();
         System.out.println("Witaj " + name + ". Za " + (5 - level) + " lata będę pisał maturę !");
 //        na branchu 'twoje imię' w następnej linii wydrukuj co chcesz robić po zakończeniu szkoły średniej
+        System.out.println("Po zakończeniu szkoły chciałbym zaciągnąć się do wojska");
     }
 }
